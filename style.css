@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 80px 0;
+}
+.container h2 {
+    font-size: 3.5em;
+    margin-top: 0.25em;
+}
+.container p {
+    font-size: 1.25em;
+    margin-top: 1em;
+}
